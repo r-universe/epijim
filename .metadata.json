@@ -1,0 +1,15 @@
+[
+  {
+    "package": "riem",
+    "oncran": false
+  },
+  {
+    "package": "tinkr"
+  },
+  {
+    "package": "rtimicropem"
+  },
+  {
+    "package": "goodpress"
+  }
+]
