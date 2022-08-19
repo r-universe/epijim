@@ -4,7 +4,8 @@
     "oncran": false
   },
   {
-    "package": "tinkr"
+    "package": "tinkr",
+    "oncran": false
   },
   {
     "package": "rtimicropem"
