@@ -1,11 +1,9 @@
 [
   {
-    "package": "riem",
-    "oncran": false
+    "package": "riem"
   },
   {
-    "package": "tinkr",
-    "oncran": false
+    "package": "tinkr"
   },
   {
     "package": "rtimicropem"
