@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/epijim/universe
-	shallow = true
 	branch = HEAD
 [submodule "riem"]
 	path = riem
 	url = https://github.com/epijim/episheet
-	shallow = true
-	registered = true
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/epijim/notifyme
-	shallow = true
-	registered = true
 [submodule "rtimicropem"]
 	path = rtimicropem
 	url = https://github.com/epijim/FootballData
-	shallow = true
-	registered = true
 [submodule "goodpress"]
 	path = goodpress
 	url = https://github.com/openpharma/GithubMetrics
-	shallow = true
-	registered = true
