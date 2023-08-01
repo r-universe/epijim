@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/epijim/universe
 	branch = HEAD
-[submodule "riem"]
-	path = riem
-	url = https://github.com/epijim/episheet
-[submodule "tinkr"]
-	path = tinkr
-	url = https://github.com/epijim/notifyme
-[submodule "rtimicropem"]
-	path = rtimicropem
-	url = https://github.com/epijim/FootballData
 [submodule "goodpress"]
 	path = goodpress
 	url = https://github.com/openpharma/GithubMetrics
+[submodule "riem"]
+	path = riem
+	url = https://github.com/epijim/episheet
+[submodule "rtimicropem"]
+	path = rtimicropem
+	url = https://github.com/epijim/FootballData
+[submodule "tinkr"]
+	path = tinkr
+	url = https://github.com/epijim/notifyme
